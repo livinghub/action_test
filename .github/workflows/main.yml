@@ -12,6 +12,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: run py
         run: |
+          echo "Adding some Markdown content"
           python3 ./python/main.py
 
 
