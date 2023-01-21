@@ -1,5 +1,6 @@
 
 def io_test():
+    print("测速成功")
     return "hello world."
 
 
