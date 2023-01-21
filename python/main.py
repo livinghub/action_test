@@ -5,3 +5,4 @@ def io_test():
 
 if __name__ == "__main__":
     io_test()
+    print("main")
